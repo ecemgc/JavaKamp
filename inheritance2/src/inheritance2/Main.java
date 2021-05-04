@@ -8,7 +8,7 @@ public class Main {
 		customerManager.add(new FileLogger());
 	
 		DatabaseLogger logger = new DatabaseLogger();
-		logger.log("ecem");
+		logger.log(" ecem");
 	
 	}
 	
